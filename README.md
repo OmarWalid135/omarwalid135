@@ -1,16 +1,25 @@
-## Hi there 👋
+## Omar Walid
 
-<!--
-**OmarWalid135/omarwalid135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<Backend / Full-stack> engineer — <domain>.
+Mostly .NET and AWS. Most of my work is in private company repos,
+so here's the shape of it instead.
 
-Here are some ideas to get you started:
+### What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **<System>** — <C#, ASP.NET Core, SQL Server>. <What it does.> <Number.>
+- **<System>** — <stack>. <Result with a number.>
+- **<System>** — <stack>. <Result with a number.>
+
+### Public
+
+- **[Carseer2](https://github.com/OmarWalid135/Carseer2)** — Blazor WebAssembly
+  front end over an ASP.NET Core API that proxies and caches the NHTSA vPIC
+  vehicle database. Docker Compose, deployed to AWS ECS behind an ALB.
+
+### Stack
+
+C# · .NET 8 · ASP.NET Core · Blazor · Entity Framework · SQL Server · Docker · AWS
+
+### Contact
+
+[LinkedIn]([<url>](https://www.linkedin.com/in/omarwalid135/)) ·Omarwal71995@gmail.com
