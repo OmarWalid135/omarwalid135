@@ -32,7 +32,7 @@ public project that shows how I put it together.
 `Platinum HR` · `Platinum CRM` · `Platinum Owner` · `Platinum Label Printer` · `Platinum Uploader`
 
 **Retail & marketplace** — storefront apps for supermarket and mall operators
-`Food Gate Market` · `ةفاقثلا قاوسأ` · `Emran Mall` · `Bustanji Mall` · `Premier Supermarket`
+`Food Gate Market` · `اسواق الثقافة` · `Emran Mall` · `Bustanji Mall` · `Premier Supermarket`
 
 **Operations** — warehouse and order-handling tools
 `Purchase Order Receive` · `Captain Order`
