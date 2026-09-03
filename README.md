@@ -38,7 +38,7 @@ Working on <what you're building / learning right now — one line>.
 
 ### Contact
 
-[LinkedIn]([https://www.linkedin.com/in/omarwalid135/]) · Omarwal71995@gmail.com
+[LinkedIn](https://www.linkedin.com/in/omarwalid135/) · Omarwal71995@gmail.com
 
 Everything above the placeholders is grounded in Carseer2's actual README — .NET 8, Blazor WASM, the caching proxy, Compose, ECS, ALB. I deliberately claimed no metrics and no job title, because inventing "cut latency 60%" on a profile is the fastest way to get caught in an interview.
  
