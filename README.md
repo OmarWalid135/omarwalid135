@@ -23,6 +23,19 @@ containers on AWS.
 Day to day I work on a commercial product whose repos are private, so this
 profile is quieter than the work is. Below is the stack I actually use and one
 public project that shows how I put it together.
+### Shipped
+
+📱 [Google Play](https://play.google.com/store/apps/dev?id=7857086275026745802) ·
+[App Store](https://apps.apple.com/jo/developer/alaa-omar/id1736309763)
+
+**Platinum suite** — mobile clients for the Platinum ERP platform
+`Platinum HR` · `Platinum CRM` · `Platinum Owner` · `Platinum Label Printer` · `Platinum Uploader`
+
+**Retail & marketplace** — storefront apps for supermarket and mall operators
+`Food Gate Market` · `ةفاقثلا قاوسأ` · `Emran Mall` · `Bustanji Mall` · `Premier Supermarket`
+
+**Operations** — warehouse and order-handling tools
+`Purchase Order Receive` · `Captain Order`
 
 ### Public work
 
